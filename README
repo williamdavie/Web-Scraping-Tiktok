@@ -1,0 +1,46 @@
+---------SCRAPING TIKTOK PROFILE DATA---------
+
+    Scraping profile data from tiktok pages including followers, likes, comments, shares, duration. Along with the quantative analysis of the collected data. Aiming to provide an indication of who a given company may want to collaborate with. 
+
+
+        Code entirely written by William Davie. (DrDavie1 - GitHub)
+
+        With help from selenium, numpy and panda documentation
+
+    Disclaimer, this project was a personal project in an attempt to demonstate my skills it is far from perfect.
+
+    -----PROJECT OVERVIEW----
+
+    Libraries Used:
+
+        - math
+        - time
+        - selenium
+        - numpy
+        - pandas
+
+    Skills shown: Data Extraction/Web Scraping, Data filtering, Object Orientated Programming, Error Catching, Data Visualisation, Data Analysis. 
+
+
+    -----DATA ANALYSIS----
+
+    The notebooks included analyse data aquired by the way scraper. Using skills gained from my Undergraduate studies in Physics i have analysed real world data.
+
+    -profile_analyis.ipynb:
+        = ANALYSIS OF A SINGLE TIKTOK PROFILE USING WEB-SCRAPED DATA
+
+    -multi-profile_analysis.ipynb:
+        = COMPARISON OF A MULTIPLE TIKTOK PROFILES USING WEB-SCRAPED DATA
+
+    
+
+    -----------Running information-----------
+
+    YOU WILL NEED TO DOWNLOAD YOUR OWN CHROME DRIVER AND INPUT THE FILE PATH IN set_variables. 
+
+    download here: https://chromedriver.chromium.org/downloads
+
+   look through the notebooks provided to understand how the main classes are used.
+
+    Note:
+        Webscraping with dynamic webpages with python has long run times and requires a good wifi connection 
